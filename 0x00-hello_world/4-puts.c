@@ -7,6 +7,6 @@
 
 int main(void)
 {
-	printf("Programming is like building a multilingual puzzele");
-		return (0);
+	printf("\"Programming is like building a multilingual puzzele");
+	return (0);
 }
