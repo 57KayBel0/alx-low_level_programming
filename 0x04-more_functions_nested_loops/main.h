@@ -10,5 +10,6 @@ void print_square(int size);
 void print_triangle(int size);
 void print_number(int n);
 int _putchar (char c);
+int main(void);
 int convert_day(int month, int day);
 void print_remaining_days(int month, int day, int year);
