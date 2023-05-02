@@ -1,5 +1,5 @@
 #include "lists.h"
-/*
+/**
  * print_listint - prints all the elements of a listint_t list.
  * @h: A pointer to the header of the list_t list.
  *
